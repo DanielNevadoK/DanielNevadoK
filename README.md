@@ -3,7 +3,7 @@
 
 I'm a frontend development student. I specialize in HTML, CSS, and JavaScript and I'm passionate about creating engaging user interfaces that provide an excellent user experience.
 
-## Skills
+## Skills & Experiences
 * ⚛️ React
 * 💻 JS, HTML, CSS
 * 🪅 Figma
