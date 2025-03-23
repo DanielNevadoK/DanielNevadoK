@@ -4,9 +4,10 @@
 I'm a Frontend Development. I specialize in JavaScript, HTML and CSS  and I'm passionate about creating engaging user interfaces that provide an excellent user experience.
 
 ## Skills & Experiences
-* ⚛️ React
-* 💻 JS, HTML, CSS
-* 🪅 Figma
+* ⚛️ React, Vite, Next.js, Node.js, API
+* 💻 JS, TS, HTML, CSS, Tailwind
+* 🪅 Figma, Ai, Ps
+* 🤖 MidJourney, ChatGPT
 
 
 
