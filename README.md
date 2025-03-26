@@ -1,16 +1,19 @@
 ![Frontenddani](https://github.com/user-attachments/assets/b06ee577-afcf-4048-a8cf-26eddb44dd12)
-<h1> Daniel Nevado Kröger </h1>
-
-I'm a Frontend Development. I specialize in JavaScript, HTML and CSS  and I'm passionate about creating engaging user interfaces that provide an excellent user experience.
-
-## Skills & Experiences
-* ⚛️ React, Vite, Next.js, Node.js, API
-* 💻 JS, TS, HTML, CSS, Tailwind
-* 🪅 Figma, Ai, Ps
-* 🤖 MidJourney, ChatGPT
+# About Me:
+👋 Hi, I'm Daniel!<br>I'm a frontend developer with experience in React, Vue, Vite and Next.js, currently expanding my full-stack skills by diving deeper into .NET and Node.js. I enjoy building clean, efficient, and user-friendly applications while continuously improving my technical knowledge.<br><br>🔨 What I'm Currently Working On<br>Right now, I'm refining my expertise in Next.js and backend development with Node.js and .NET. I’m also converting an existing project from standard CSS to TailwindCSS for better scalability, maintainability and get used to clean code.<br><br>🤝 Looking to Collaborate On<br>I’m open to collaborating on frontend and full-stack projects, particularly those involving Next.js, React, and modern UI frameworks. I'm also interested in projects that integrate Supabase and backend technologies.<br><br>❓ Looking for Help With<br>I’m always eager to learn more about scalable architecture, performance optimization, and best practices for building full-stack applications. If you have insights on .NET, backend APIs, or advanced Next.js patterns, I’d love to connect!<br><br>📚 Currently Learning<br>Next.js 15 and server-side rendering concepts<br><br>Supabase for authentication and database management<br><br>.NET for backend development<br><br>Advanced React patterns and performance optimization<br><br>🎉 Fun Fact<br>I have competed in BJJ (Brazilian Jiu-Jitsu) and am currently a proud purple belt!
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danielnevadokroger/) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DanielNevadoK&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DanielNevadoK&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNevadoK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
